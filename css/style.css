@@ -77,6 +77,12 @@ body{
 #baby-web{
     border-left: 7px solid lightblue;
 }
+.middle{
+    text-align: center;
+}
+#extra-color{
+    color:#1BD2D7;
+}
         
         
     
