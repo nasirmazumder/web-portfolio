@@ -43,9 +43,7 @@ body{
         background-color: rgb(5, 110, 13);
     
     }  
-    h2{
-        font-size: 40px;
-    } 
+    
     p{
         color: dimgray;
     }
@@ -58,11 +56,12 @@ body{
     margin: 07%;
     margin-bottom: 10px;
     margin-top: 10px;
+    font-size: 40px;
   }
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
-    height: 70%;
+    height: 90%;
     background-color: white;
 }
 .experience-area{
@@ -145,6 +144,21 @@ color:#FFBB24;
 .icons a:nth-child(4) i:hover{
     color:white;
     background-color:#55ACEE ;
+}
+@media(max-width:700){
+    .single-experience{
+        box-shadow: 10px 10px 40px gray;
+        border-radius: 10px;
+        height: 100%;
+        background-color: white;
+    
+    }
+    #exp{
+        margin: 07%;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        font-size: 25px;
+      }
 }
 
 
