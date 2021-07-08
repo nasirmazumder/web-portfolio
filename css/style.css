@@ -24,7 +24,7 @@ body{
         
     }
     .top-banner{
-        background-image: url(/img/imgopa.png);
+        background-image: url(../img/imgopa.png);
         background-size: 40%;
         background-position:bottom left;
         background-repeat: no-repeat;
@@ -48,7 +48,7 @@ body{
         color: dimgray;
     }
     .my-destiny{
-        background-image: url(/img/dreambg.png);
+        background-image: url(../img/dreambg.png);
         background-repeat: no-repeat;
         background-position: right;
     }
@@ -65,7 +65,7 @@ body{
     background-color: white;
 }
 .experience-area{
-    background-image: url(/img/experience.png);
+    background-image: url(../img/experience.png);
     background-repeat: no-repeat;
     background-position:left;
 }
